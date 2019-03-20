@@ -19,3 +19,6 @@ build_script:
 - qmake -v
 - qmake -r BOOST_PATH=%BOOST_ROOT%
 - call %MAKE_CMD%
+
+artifacts:
+  - path: C:/projects/glogg/src/platformfilewatcher.h
