@@ -21,4 +21,4 @@ build_script:
 - call %MAKE_CMD%
 
 artifacts:
-  - path: C:/projects/glogg/src/platformfilewatcher.h
+  - path: release/glogg.exe
