@@ -22,3 +22,4 @@ build_script:
 
 artifacts:
   - path: release/glogg.exe
+    name: glogg.exe
